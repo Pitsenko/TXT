@@ -1,0 +1,5 @@
+Pitsenko Oleg Nikolaevich
+Age: 35
+Pets: 1
+Salary: 1000$
+
