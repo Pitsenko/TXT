@@ -1,6 +1,6 @@
 Favorite movie: Scream
 Favorite series: Friends
-Favorite eat: Sushi
-Favorite season of the year: Summer 
-I want to visit Japan
+Favorite food: Sushi
+Favorite season: Summer 
+I want to visit: Japan
 !
