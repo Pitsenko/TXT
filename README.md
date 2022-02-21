@@ -8,7 +8,7 @@
  - Переходим в  = git bash 
  - В разделе создаем папку =  mkdir 2homework
  - Заходим в папку = cd 2homework
- - git clone https://github.com/Pitsenko/TXT.git 
+ - git clone [Вставляем ссылку с гитхаба](https://github.com/Pitsenko/TXT.git) 
 3. **Внутри локального TXT создать файл “new.txt”.**  
  - touch new.txt
 4. **Добавить файл под гит.**  
